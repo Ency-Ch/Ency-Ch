@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ency-Ch
+- 👋 Hi, I’m @Ency-Ch a biologist turned web developer. 
 - 👀 I’m interested in Web developement
 - 🌱 I’m currently learning HTML, CSS(SASS), Javascript and  Python (django) 
 - 💞️ I’m looking to collaborate on ...
