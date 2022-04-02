@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ency-Ch a biologist turned web developer. 
 - 👀 I’m interested in Web developement
-- 🌱 I have have completed an industry guided 13 week coding bootcamp, 
+- 🌱 I have have completed an industry guided 13 week coding bootcamp with https://northcoders.com/
 - I have dabled with  Python (django) 
 
 
